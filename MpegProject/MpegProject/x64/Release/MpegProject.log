@@ -1,0 +1,50 @@
+﻿Build started 2015/6/25 下午 02:55:06.
+     1>Project "C:\Users\leisure\documents\visual studio 2013\Projects\MpegProject\MpegProject\MpegProject.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\amd64\CL.exe /c /IC:\opencv\build\include /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\idct.h(44): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\idct.h(45): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\idct.h(46): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\idct.h(47): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\idct.h(48): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\idct.h(49): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\idct.h(50): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\idct.h(51): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\idct.h(88): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\idct.h(89): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\idct.h(90): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\idct.h(91): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\idct.h(92): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\idct.h(93): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\idct.h(94): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\idct.h(95): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\header.h(143): warning C4244: 'return' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\header.h(382): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\header.h(718): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\header.h(719): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\header.h(720): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\header.h(721): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\header.h(905): warning C4800: 'unsigned int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\header.h(908): warning C4800: 'unsigned int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\header.h(943): warning C4800: 'unsigned int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\header.h(950): warning C4800: 'unsigned int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\header.h(957): warning C4800: 'unsigned int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\header.h(960): warning C4800: 'unsigned int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\header.h(1010): warning C4800: 'unsigned int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\header.h(1011): warning C4800: 'unsigned int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\header.h(1050): warning C4800: 'unsigned int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\header.h(1052): warning C4800: 'unsigned int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\header.h(1054): warning C4800: 'unsigned int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\header.h(1066): warning C4800: 'unsigned int' : forcing value to bool 'true' or 'false' (performance warning)
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\leisure\documents\visual studio 2013\Projects\MpegProject\x64\Release\MpegProject.exe" /NOLOGO /LIBPATH:C:\opencv\build\x64\vc12\lib opencv_core2411.lib opencv_highgui2411.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\leisure\documents\visual studio 2013\Projects\MpegProject\x64\Release\MpegProject.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\leisure\documents\visual studio 2013\Projects\MpegProject\x64\Release\MpegProject.lib" /MACHINE:X64 x64\Release\main.obj
+         x64\Release\TableHandler.obj
+         Generating code
+         Finished generating code
+         MpegProject.vcxproj -> C:\Users\leisure\documents\visual studio 2013\Projects\MpegProject\x64\Release\MpegProject.exe
+     1>Done Building Project "C:\Users\leisure\documents\visual studio 2013\Projects\MpegProject\MpegProject\MpegProject.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.51

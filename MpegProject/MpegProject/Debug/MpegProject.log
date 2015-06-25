@@ -1,0 +1,56 @@
+﻿Build started 2015/6/23 下午 11:16:35.
+     1>Project "c:\Users\leisure\documents\visual studio 2013\Projects\MpegProject\MpegProject\MpegProject.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\opencv\build\include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\idct.h(44): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\idct.h(45): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\idct.h(46): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\idct.h(47): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\idct.h(48): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\idct.h(49): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\idct.h(50): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\idct.h(51): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\idct.h(88): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\idct.h(89): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\idct.h(90): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\idct.h(91): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\idct.h(92): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\idct.h(93): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\idct.h(94): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\idct.h(95): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\header.h(141): warning C4244: 'return' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\header.h(417): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\header.h(418): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\header.h(419): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\header.h(420): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\header.h(536): warning C4800: 'unsigned int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\header.h(539): warning C4800: 'unsigned int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\header.h(566): warning C4800: 'unsigned int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\header.h(573): warning C4800: 'unsigned int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\header.h(580): warning C4800: 'unsigned int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\header.h(583): warning C4800: 'unsigned int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\header.h(633): warning C4800: 'unsigned int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\header.h(634): warning C4800: 'unsigned int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\header.h(672): warning C4800: 'unsigned int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\header.h(674): warning C4800: 'unsigned int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\header.h(676): warning C4800: 'unsigned int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\leisure\documents\visual studio 2013\projects\mpegproject\mpegproject\header.h(688): warning C4800: 'unsigned int' : forcing value to bool 'true' or 'false' (performance warning)
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\leisure\documents\visual studio 2013\Projects\MpegProject\Debug\MpegProject.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\opencv\build\x64\vc12\lib opencv_core2411d.lib opencv_highgui2411d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\leisure\documents\visual studio 2013\Projects\MpegProject\Debug\MpegProject.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\leisure\documents\visual studio 2013\Projects\MpegProject\Debug\MpegProject.lib" /MACHINE:X86 Debug\main.obj
+         Debug\TableHandler.obj
+     1>main.obj : error LNK2019: unresolved external symbol "public: __thiscall cv::Exception::Exception(int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,int)" (??0Exception@cv@@QAE@HABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@00H@Z) referenced in function "public: __thiscall cv::Mat::Mat(int,int,int,void *,unsigned int)" (??0Mat@cv@@QAE@HHHPAXI@Z)
+     1>main.obj : error LNK2019: unresolved external symbol "public: virtual __thiscall cv::Exception::~Exception(void)" (??1Exception@cv@@UAE@XZ) referenced in function "public: __thiscall cv::Mat::Mat(int,int,int,void *,unsigned int)" (??0Mat@cv@@QAE@HHHPAXI@Z)
+     1>main.obj : error LNK2019: unresolved external symbol "void __cdecl cv::error(class cv::Exception const &)" (?error@cv@@YAXABVException@1@@Z) referenced in function "public: __thiscall cv::Mat::Mat(int,int,int,void *,unsigned int)" (??0Mat@cv@@QAE@HHHPAXI@Z)
+     1>main.obj : error LNK2019: unresolved external symbol "void __cdecl cv::fastFree(void *)" (?fastFree@cv@@YAXPAX@Z) referenced in function "public: __thiscall cv::Mat::~Mat(void)" (??1Mat@cv@@QAE@XZ)
+     1>main.obj : error LNK2019: unresolved external symbol "public: __thiscall cv::_InputArray::_InputArray(class cv::Mat const &)" (??0_InputArray@cv@@QAE@ABVMat@1@@Z) referenced in function "void __cdecl convertRGB(int (* const)[1024][1024])" (?convertRGB@@YAXQAY1EAA@EAA@H@Z)
+     1>main.obj : error LNK2019: unresolved external symbol "public: void __thiscall cv::Mat::deallocate(void)" (?deallocate@Mat@cv@@QAEXXZ) referenced in function "public: void __thiscall cv::Mat::release(void)" (?release@Mat@cv@@QAEXXZ)
+     1>main.obj : error LNK2019: unresolved external symbol "int __cdecl cv::_interlockedExchangeAdd(int *,int)" (?_interlockedExchangeAdd@cv@@YAHPAHH@Z) referenced in function "public: void __thiscall cv::Mat::release(void)" (?release@Mat@cv@@QAEXXZ)
+     1>main.obj : error LNK2019: unresolved external symbol "void __cdecl cv::namedWindow(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,int)" (?namedWindow@cv@@YAXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H@Z) referenced in function "void __cdecl convertRGB(int (* const)[1024][1024])" (?convertRGB@@YAXQAY1EAA@EAA@H@Z)
+     1>main.obj : error LNK2019: unresolved external symbol "void __cdecl cv::imshow(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class cv::_InputArray const &)" (?imshow@cv@@YAXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@ABV_InputArray@1@@Z) referenced in function "void __cdecl convertRGB(int (* const)[1024][1024])" (?convertRGB@@YAXQAY1EAA@EAA@H@Z)
+     1>c:\users\leisure\documents\visual studio 2013\Projects\MpegProject\Debug\MpegProject.exe : fatal error LNK1120: 9 unresolved externals
+     1>Done Building Project "c:\Users\leisure\documents\visual studio 2013\Projects\MpegProject\MpegProject\MpegProject.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.22

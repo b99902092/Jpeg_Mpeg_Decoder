@@ -1,0 +1,13 @@
+[2002/05/27] 
+MpegParser by Po-Kang Hsiao, CMLAB
+
+This Program can dump the syntax, motion and VLC information during the 
+decoding process. You can specify the frame number that you want to debug.
+
+Usage:
+   mpegparser [input file] [frame number]
+
+Please contact the TA if you have any problem in usage, or any suggestion
+,such as display style, that will facilitate the debugging process.
+
+						pkhsiao@cmlab.csie.ntu.edu.tw
